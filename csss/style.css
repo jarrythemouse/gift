@@ -1,0 +1,54 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.nav-list{
+    display: flex;
+}
+.nav-list li {
+    padding: 44px;
+    font-size: large;
+    
+  
+}
+.nav-list li a {
+    text-decoration: none;
+    color: white;
+   
+
+}
+.nav-list li a:hover{
+    color: blue;
+}
+pre {
+    font-size: x-large;
+    color: white;
+    
+}
+.background{
+    background:rgba(0,0,0, 0.7)url('../viduimage.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+    
+}
+.background img{
+    border-radius: 130px;
+   
+}
+
+
+    
+.navbar{
+    background-color: black;
+}
+#search{
+    padding: 5px;
+    font-size: 17px;
+    border: 2px solid gray;
+    border-radius: 12px;
+    
+}
